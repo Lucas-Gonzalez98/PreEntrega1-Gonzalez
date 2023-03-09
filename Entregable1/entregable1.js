@@ -32,7 +32,7 @@ do {
 // salir
 function salir(){
     if (total > 0){
-        alert (`GRACIAS POR SU COMPRA ESTAMOS, TRABAJANDO EN SU PEDIDO ${nombre}, NOS VEMOS PRONTO`);
+        alert (`GRACIAS POR SU COMPRA, ESTAMOS TRABAJANDO EN SU PEDIDO ${nombre}, NOS VEMOS PRONTO`);
 }else {
     alert (`GRACIAS POR CONOCER NUESTRA PAGINA WEB ${nombre}, NOS VEMOS PRONTO`);
 }
